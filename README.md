@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**suryawanshiaditya481-dot/suryawanshiaditya481-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Aditya 👋
 
-Here are some ideas to get you started:
+🎓 B.Sc. Computer Science Student at Nowrosjee Wadia College, Pune.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Interested in Software Development and Data Science.
+
+🌱 Currently learning C Programming, Python and Problem Solving.
+
+🎯 Focused on building technical skills through practical projects and continuous learning.
+
+### 🛠️ Skills & Technologies
+- C Programming
+- Python (Learning)
+- Git & GitHub (Learning)
+
+### 📚 Currently Exploring
+- Software Development
+- Data Science
+- Programming Fundamentals
+
+### 🤝 Connect With Me
+- LinkedIn: Add your LinkedIn profile link here
+
+---
+⭐ Always learning, building and improving!
