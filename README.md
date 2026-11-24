@@ -20,7 +20,7 @@
 - Programming Fundamentals
 
 ### 🤝 Connect With Me
-- LinkedIn: Add your LinkedIn profile link here
+- LinkedIn: https://www.linkedin.com/in/aditya-suryawanshi-88070243b
 
 ---
 ⭐ Always learning, building and improving!
