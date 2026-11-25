@@ -21,7 +21,7 @@
 
 ### 🤝 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/aditya-suryawanshi-88070243b
-- Gmail:- surtawanshiaditya481@gmail.com
+- Gmail:- suryawanshiaditya481@gmail.com
 - 
 
 ---
